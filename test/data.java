@@ -17,5 +17,12 @@ class Data{
         // System.out.println(Integer.MIN_VALUE);
         int num3 = 2147483647;
         System.out.println(num3);
+
+        /** 64ビット -9223372036854775808 ~ 9223372036854775807*/
+        // System.out.println(Long.MAX_VALUE);
+        // System.out.println(Long.MIN_VALUE);
+        long num4 = 9223372036854775807L;
+        System.out.println(num4);
+    
     }
 }
