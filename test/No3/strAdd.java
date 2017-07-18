@@ -1,3 +1,4 @@
+/** 演算子 */
 class strAdd {
 
     public static void main(String[] args){
