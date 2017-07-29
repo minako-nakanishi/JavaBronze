@@ -18,7 +18,7 @@ class Switch3{
             System.out.println("numは3か4");
             break;//numが3か4の時、switchから抜ける.
 
-            //numが1~4以外の時
+            //numが1~4以外の時の処理
             default:
             System.out.println("numは1から4以外");
         }
